@@ -1,0 +1,15 @@
+1. Qué operadores utiliza Python en los siguientes casos:
+A. División Modular
+rta: se usa la barra de porcentaje %
+
+B. Exponenciación
+rta: se usa el doble asterizco **
+
+C. División que retorne entero.
+rta: se usa el doble slahs //
+
+2. En la jerarquía de operadores, cuáles son los que más
+prioridad tienen cuando el intérprete de Python los evalúa?
+
+1. suma y resta contienen la misma prioridad y se leen de izquierda a derecha
+2. la multiplica
