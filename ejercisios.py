@@ -8,6 +8,18 @@
 # C. División que retorne entero.
 # rta: se usa el doble slahs //
 
-for divisionModular in range(1, 10):
-    if(divisionModular% 2 != 0):
-        print(divisionModular)
+# 1
+# for divisionModular in range(1, 10):
+#     if(divisionModular% 2 != 0):
+#         print(divisionModular)
+# 2
+# for exponenciacion in range(1, 10):
+#     if(exponenciacion** 2 != 0):
+#         print(exponenciacion)
+# 3
+# for divisionentera in range(1, 10):
+#     if(divisionentera// 2 != 0):
+#         print(divisionentera)      
+
+
+
