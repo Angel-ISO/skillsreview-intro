@@ -105,21 +105,21 @@
 # - Mes de consumo - Valor kw
 # -Total kw consumido en el mes - estrato
 
-mes_de_consumo = "1"
-total_consumido = "152"
-valorkw = "668"
-estrato = "3"
+# mes_de_consumo = "1"
+# total_consumido = "152"
+# valorkw = "668"
+# estrato = "3"
 
-consumo_global= total_consumido*valorkw
-if estrato==1:
-    descuento=total_consumido*0.6
-if estrato==2:
-    descuento=total_consumido*0.5
-if estrato==3:
-    descuento=total_consumido*0.05
+# consumo_global= total_consumido*valorkw
+# if estrato==1:
+#     descuento=total_consumido*0.6
+# if estrato==2:
+#     descuento=total_consumido*0.5
+# if estrato==3:
+#     descuento=total_consumido*0.05
 
-valor_total= consumo_global-descuento
+# valor_total= consumo_global-descuento
 
-print("el valor del mes: "+ mes_de_consumo, "es de:"+ valor_total)
+# print("el valor del mes: "+ mes_de_consumo, "es de:"+ valor_total)
 
 
